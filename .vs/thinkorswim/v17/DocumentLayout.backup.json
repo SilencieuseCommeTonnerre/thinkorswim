@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC10115-F101-4A73-85E4-93796B644B30}|ConsoleQuotes\\ConsoleQuotes.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\consolequotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC10115-F101-4A73-85E4-93796B644B30}|ConsoleQuotes\\ConsoleQuotes.csproj|solutionrelative:consolequotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\thinkorswim\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\thinkorswim\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\thinkorswim\\irdtupdateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\irdtupdateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\thinkorswim\\irtdserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\irtdserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\thinkorswim\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\thinkorswim\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|c:\\users\\sarah\\source\\repos\\silencieusecommetonnerre\\thinkorswim\\thinkorswim\\topics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3AC59-3809-4B0D-A7DF-6294F2CC1245}|ThinkOrSwim\\ThinkOrSwim.csproj|solutionrelative:thinkorswim\\topics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Topics.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Topics.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\Topics.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Topics.cs",
+              "RelativeToolTip": "ThinkOrSwim\\Topics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Quote.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\Quote.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Quote.cs",
+              "RelativeToolTip": "ThinkOrSwim\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:27.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Queue.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\Queue.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Queue.cs",
+              "RelativeToolTip": "ThinkOrSwim\\Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:26.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRTDServer.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\IRTDServer.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\IRTDServer.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\IRTDServer.cs",
+              "RelativeToolTip": "ThinkOrSwim\\IRTDServer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:24.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRDTUpdateEvent.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\IRDTUpdateEvent.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\IRDTUpdateEvent.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\IRDTUpdateEvent.cs",
+              "RelativeToolTip": "ThinkOrSwim\\IRDTUpdateEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feed.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Feed.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\Feed.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Feed.cs",
+              "RelativeToolTip": "ThinkOrSwim\\Feed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Client.cs",
+              "RelativeDocumentMoniker": "ThinkOrSwim\\Client.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ThinkOrSwim\\Client.cs",
+              "RelativeToolTip": "ThinkOrSwim\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:53:43.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ConsoleQuotes\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleQuotes\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\SilencieuseCommeTonnerre\\thinkorswim\\ConsoleQuotes\\Program.cs",
+              "RelativeToolTip": "ConsoleQuotes\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:17:32.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
